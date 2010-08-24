@@ -1,0 +1,24 @@
+C:\Users\Thim\AppData\Local\Temporary Projects\iAgent\bin\Debug\iAgent.exe
+C:\Users\Thim\AppData\Local\Temporary Projects\iAgent\bin\Debug\iAgent.pdb
+C:\Users\Thim\AppData\Local\Temporary Projects\iAgent\bin\Debug\iAgent.xml
+C:\Users\Thim\AppData\Local\Temporary Projects\iAgent\bin\Debug\LibUsbDotNet.dll
+C:\Users\Thim\AppData\Local\Temporary Projects\iAgent\bin\Debug\LibUsbDotNet.xml
+C:\Users\Thim\AppData\Local\Temporary Projects\iAgent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Thim\AppData\Local\Temporary Projects\iAgent\obj\Debug\iAgent.Form1.resources
+C:\Users\Thim\AppData\Local\Temporary Projects\iAgent\obj\Debug\iAgent.Resources.resources
+C:\Users\Thim\AppData\Local\Temporary Projects\iAgent\obj\Debug\iAgent.vbproj.GenerateResource.Cache
+C:\Users\Thim\AppData\Local\Temporary Projects\iAgent\obj\Debug\iAgent.exe
+C:\Users\Thim\AppData\Local\Temporary Projects\iAgent\obj\Debug\iAgent.xml
+C:\Users\Thim\AppData\Local\Temporary Projects\iAgent\obj\Debug\iAgent.pdb
+C:\Users\Thim\Desktop\iPhone_dev\iAgent\obj\Debug\iAgent.exe
+C:\Users\Thim\Desktop\iPhone_dev\iAgent\obj\Debug\iAgent.xml
+C:\Users\Thim\Desktop\iPhone_dev\iAgent\obj\Debug\iAgent.pdb
+C:\Users\Thim\Desktop\iPhone_dev\iAgent\bin\Debug\iAgent.exe
+C:\Users\Thim\Desktop\iPhone_dev\iAgent\bin\Debug\iAgent.pdb
+C:\Users\Thim\Desktop\iPhone_dev\iAgent\bin\Debug\iAgent.xml
+C:\Users\Thim\Desktop\iPhone_dev\iAgent\bin\Debug\LibUsbDotNet.dll
+C:\Users\Thim\Desktop\iPhone_dev\iAgent\bin\Debug\LibUsbDotNet.xml
+C:\Users\Thim\Desktop\iPhone_dev\iAgent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Thim\Desktop\iPhone_dev\iAgent\obj\Debug\iAgent.Form1.resources
+C:\Users\Thim\Desktop\iPhone_dev\iAgent\obj\Debug\iAgent.Resources.resources
+C:\Users\Thim\Desktop\iPhone_dev\iAgent\obj\Debug\iAgent.vbproj.GenerateResource.Cache
